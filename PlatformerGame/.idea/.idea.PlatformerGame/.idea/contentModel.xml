@@ -14,10 +14,10 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="PlayerMove.cs" t="Include" />
           <e p="PlayerScripts" t="Include">
-            <e p="PhysicsObject.cs" t="Include" />
-            <e p="PlayerPlatformerController.cs" t="Include" />
+            <e p="CharacterController2D.cs" t="Include" />
+            <e p="Movements.cs" t="Include" />
+            <e p="PlayerFall.cs" t="Include" />
           </e>
         </e>
       </e>
