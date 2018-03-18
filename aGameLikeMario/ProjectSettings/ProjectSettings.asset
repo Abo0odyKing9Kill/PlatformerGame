@@ -708,18 +708,18 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 0
+    Collab: 1
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bc8adf87-5e27-4fd0-94d3-21092eaa2b8c
-  projectName: Mario
-  organizationId: imouath
+  cloudProjectId: 9981529f-dccb-4a78-9788-83fc82d9c777
+  projectName: aGameLikeMario
+  organizationId: abo0odyking9kill
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
